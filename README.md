@@ -20,7 +20,7 @@ This dataset is used for estimating the precise number of occupants in a room us
 
 Number of Instances: 10129
 
-Number of Attributes: 16
+Number of Attributes: 19
 
 ## Final Result Table
 
